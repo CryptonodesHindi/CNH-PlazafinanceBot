@@ -8,7 +8,7 @@
     "autosend": "node autoSend.js",
     "create": "node createWallet.js"
   },
-  "author": "@zlkcyber",
+  "author": "@CryptonodeHindi",
   "license": "MIT",
   "description": "plaza finance bot",
   "dependencies": {
