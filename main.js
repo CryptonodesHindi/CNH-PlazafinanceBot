@@ -65,7 +65,7 @@ const fetchUser = async (address, proxyUrl) => {
 
 const claimRequest = async (address, proxyUrl) => {
     const agent = proxyUrl ? new HttpsProxyAgent(proxyUrl) : undefined;
-    const url = `https://api.plaza.finance/referrals/claim?address=${address}&code=JL4590xVLSix`;
+    const url = `https://api.plaza.finance/referrals/claim?address=${address}&code=zCaoUpTJkOft`;
     const body = {};
 
     try {
